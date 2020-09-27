@@ -1,4 +1,3 @@
-//Dando Css al texto//
 h1 {
 	color: red;
 }
@@ -11,7 +10,6 @@ article li strong{
 	color: #000;
 }
 
-//Realizando un poco de maquetacion//
 aside{
 	float: left;
 	width: 30%;
@@ -31,4 +29,9 @@ section{
 #experiencia{
 	float: left;
 	width: 50%;
+}
+
+article li.actual {
+	font-weight: bolder;
+	font-size: 1.2em;
 }
