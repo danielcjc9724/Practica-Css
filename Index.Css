@@ -35,3 +35,31 @@ article li.actual {
 	font-weight: bolder;
 	font-size: 1.2em;
 }
+
+nav ul{
+	padding: 0;
+}
+
+nav ul li{
+	display: inline;
+}
+
+nav ul li a{
+	font-family: Arial;
+	font-size: 11px;
+	text-decoration: none;
+	float: left;
+	padding: 10px;
+	background-color: #2175bc;
+	color: #fff; 
+}
+
+nav ul li a:hover {
+	background-color: #2586d7;
+	margin-top: -2px;
+	padding-bottom: 12px;
+}
+
+footer{
+	clear: both;
+}
