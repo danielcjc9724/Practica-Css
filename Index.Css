@@ -1,9 +1,34 @@
+//Dando Css al texto//
 h1 {
 	color: red;
 }
+
 article li {
 	color: #00F;
 }
+
 article li strong{
 	color: #000;
+}
+
+//Realizando un poco de maquetacion//
+aside{
+	float: left;
+	width: 30%;
+	clear: both;
+}
+
+section{
+	float: left;
+	width: 70%;
+}
+
+#Formacion{
+	float: left;
+	width: 50%;
+}
+
+#experiencia{
+	float: left;
+	width: 50%;
 }
